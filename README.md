@@ -1,5 +1,4 @@
-# car-damage-detection
-AI-based car damage detection and cost estimation system using YOLOv8
+
 # 🚗 Car Damage Detection & Cost Estimation AI
 
 ## 📌 Overview
@@ -52,5 +51,3 @@ This project is an AI-powered system that detects car damages from images and es
 - Mobile app integration  
 - Real-time detection  
 
-## 👨‍💻 Author
-Rajiv Ranjan
